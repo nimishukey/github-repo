@@ -3,3 +3,5 @@
 //Checking the GUI editor
 
 //final text changes
+
+This test-file is created for release branch.

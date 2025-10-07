@@ -3,3 +3,5 @@
 //Checking the GUI editor
 
 //final text changes
+
+This sample file is for release-1.

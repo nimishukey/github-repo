@@ -4,4 +4,4 @@
 
 //final text changes
 
-Testing merge tool for release branch.
+This test-file is created for release branch.
